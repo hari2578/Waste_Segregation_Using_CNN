@@ -1,0 +1,2 @@
+# Waste_Segregation_Using_CNN
+Waste_Segregation_Using_CNN
